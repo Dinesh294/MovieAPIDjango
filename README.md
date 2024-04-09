@@ -1,15 +1,15 @@
-<h1>Movie API built using Django, Django REST Framework, psycopg2</h1>
+<h1>Movie REST API built using Django, Django REST Framework, psycopg2</h1>
 
 <h2>About: </h2>
    <ul>
    <li>Can do CURD operations on the movie data</li>
-   <li>Implemented Token based autheticaation to call any api endpoint</li>
+   <li>Implemented Token based authentication to call the api endpoint</li>
     <li>Get all the movie data (/api)</li>
     <li>Get single movie data (/api/id)</li>
     <li>Post movie data (/api)</li>
     <li>Put movie data (/api/id)</li>
-    <li>Patch movie data (/api/1)</li>
-    <li>Delete movie data (/api/1)</li>
+    <li>Patch movie data (/api/id)</li>
+    <li>Delete movie data (/api/id)</li>
    </ul> 
 
 <h2>Screenshot:</h2>
@@ -17,8 +17,12 @@
 
 <h3> GET TOKEN API</h3>
 
+![getauthtoken](https://github.com/Dinesh294/MovieAPIDjango/assets/84972612/748a2512-03cd-40ce-a5e1-656a0ea3219e)
+
+
 <h3> GET API</h3>
 
+![allapi](https://github.com/Dinesh294/MovieAPIDjango/assets/84972612/6476f2b0-dac1-413b-a5ab-82dfc4137b12)
 
 
 <h2>Steps:</h2>
